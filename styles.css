@@ -1,0 +1,108 @@
+body
+{
+	text-align: center;
+}
+
+.jumbotron p
+{
+	font-size: 15px;
+}
+
+.jumbotron
+{
+	margin: 2%;
+}
+
+iframe
+{
+	width: 560px;
+	height: 315px;
+
+} 
+
+audio
+{
+	height: 10%;
+	width: 30%;
+}
+h1
+{
+	font-size: 65px;
+	color: orange;
+	font-family: cursive;
+
+}
+
+.col-md-9 p
+{
+	padding-right: 20px;
+} 
+
+#navbar
+{
+	font-size: 17px;
+	margin-left: 15%;
+}
+
+.video p
+{
+	font-size: 17px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#slideshow img
+{
+	width: 90%;
+	height: 30%;
+	border: 10px solid lightgray; 
+} 
+
+.col-md-3 div
+{
+	border: 2px solid skyblue;
+	padding: 5%;
+	margin-left: 25%;
+	font-size: 25px;
+	font-family: cursive;
+	width: 50%;
+	height: 50%;
+	font-weight: bold;
+
+}
+
+h3
+{
+	text-align: left;
+	padding-left: 20px;
+	color: purple;
+}
+
+p
+{
+	text-align: left;
+	padding-left: 20px;
+}
+
+.col-md-6 img
+{
+	height: 90%;
+	width: 90%;
+} 
+
+.btn 
+{
+	background-color: skyblue;
+	color: white;
+	font-size: 20px;
+	font-family: cursive;
+	font-weight: bold;
+}
+
+h4
+{
+	color:purple;
+	font-weight: bold;
+}
+
+
